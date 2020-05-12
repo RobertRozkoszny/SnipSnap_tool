@@ -5,6 +5,4 @@
     
     To get it to work Tesseract-OCR is required.
     
-    ![SnipSnap_tool demo](how_it_works/explanation_gif.gif)
-    ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-    ![](http://i.imgur.com/60bts.gif)
+    ![SnipSnap_demo](https://user-images.githubusercontent.com/41785653/81741763-53829880-949f-11ea-9561-f45db04f334b.gif)
