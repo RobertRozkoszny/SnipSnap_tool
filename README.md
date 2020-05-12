@@ -5,4 +5,4 @@
     
     To get it to work Tesseract-OCR is required.
     
-    ![SnipSnap_demo](https://user-images.githubusercontent.com/41785653/81741763-53829880-949f-11ea-9561-f45db04f334b.gif)
+![SnipSnap_demo](SnipSnap_demo.gif)
