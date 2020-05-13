@@ -5,4 +5,4 @@
     
     To get it to work Tesseract-OCR is required.
     
-![SnipSnap_demo](SnipSnap_demo.gif)
+![SnipSnap_demo](demo/SnipSnap_demo.gif)
