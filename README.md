@@ -1,11 +1,11 @@
 ## `SnipSnap_tool`
 
-    The SnipSnap_tool is a tool that cnoverts the selected area on the screen to text. 
-    This can be especially usefull for working with pdf files, pictures that include text or extracting text from 
-    video lectures.
+The SnipSnap_tool is a tool that cnoverts the selected area on the screen to text. 
+This can be especially usefull for working with pdf files, pictures that include text or extracting text from 
+video lectures.
     
     The core features were developed using the PyQt library and pytesseract. 
-##'Demo'    
+## 'Demo'    
 ![SnipSnap_demo](demo/SnipSnap_demo.gif)
 
 * Specify area, press 'enter', play around with the extracted text
