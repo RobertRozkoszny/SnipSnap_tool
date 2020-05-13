@@ -4,7 +4,7 @@ The SnipSnap_tool is a tool that cnoverts the selected area on the screen to tex
 This can be especially usefull for working with pdf files, pictures that include text or extracting text from 
 video lectures.
     
-    The core features were developed using the PyQt library and pytesseract. 
+The core features were developed using the PyQt library and pytesseract. 
 ## 'Demo'    
 ![SnipSnap_demo](demo/SnipSnap_demo.gif)
 
