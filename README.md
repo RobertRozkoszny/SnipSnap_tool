@@ -5,7 +5,8 @@ This can be especially usefull for working with pdf files, pictures that include
 video lectures.
     
 The core features were developed using the PyQt library and pytesseract. 
-## 'Demo'    
+## `Demo`
+
 ![SnipSnap_demo](demo/SnipSnap_demo.gif)
 
 * Specify area, press 'enter', play around with the extracted text
